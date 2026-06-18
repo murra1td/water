@@ -4,8 +4,9 @@
 
 ---
 
-## 🔴 Now (active this week)
+## 🔴 Now (active)
 
+- [ ] Define project goals
 - [ ] Create GitHub repo and push initial folder structure
 - [ ] Draft research questions (`research-questions.md`)
 - [ ] Identify 5 primary sources (ADWR, CAP, Phoenix Water, USGS, USBR)
@@ -28,6 +29,6 @@
 
 ## ✅ Done
 
-- [x] Define project goals
+
 - [x] Choose tooling (GitHub, Markdown, VS Code)
 - [x] Set up folder structure
